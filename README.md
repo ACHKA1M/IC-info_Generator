@@ -1,4 +1,9 @@
 IC-info_Generator is a tool that generate IC-info.sisv from activation_record.plist 
+Use full when missing IC-info.sisv after backup activation files for bypass
+
+IC-info.sisv generated will work only with activation_record.plist used
+IC-info.sisv is used for icloud login and other fairplay service after bypass
+
 compatibility:
 Apple Devices IOS, IPadOS
 
